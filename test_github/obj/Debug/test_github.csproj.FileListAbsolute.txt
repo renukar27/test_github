@@ -1,0 +1,6 @@
+D:\test_github\test_github\bin\Debug\test_github.exe.config
+D:\test_github\test_github\bin\Debug\test_github.exe
+D:\test_github\test_github\bin\Debug\test_github.pdb
+D:\test_github\test_github\obj\Debug\test_github.csprojResolveAssemblyReference.cache
+D:\test_github\test_github\obj\Debug\test_github.exe
+D:\test_github\test_github\obj\Debug\test_github.pdb
